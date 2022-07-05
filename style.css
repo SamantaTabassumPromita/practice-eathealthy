@@ -1,0 +1,31 @@
+.yellow{
+    color: rgb(98, 196, 209);
+}
+.button{
+    background-image: linear-gradient( rgb(98, 196, 209), #478eff);
+    padding: 10px 30px;
+    border-radius: 30px;
+    text-decoration: none;
+    color: white;
+    font-weight: 800px;
+}
+.first-section{
+    display: flex;
+    margin-bottom: 50px;
+
+
+}
+.half-width{
+    width:50%;
+    padding: 60px;
+}
+.half-width h1{
+    font-size: 60px;
+}
+.half-width img{
+    width:500px;
+}
+.half-width h4{
+    color: darkgrey;
+    font-size: 20px;
+}
